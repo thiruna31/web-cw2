@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="620" viewBox="0 0 1000 620" role="img" aria-labelledby="title desc">
+<title id="title">AI and Machine Learning</title>
+<desc id="desc">Learning intelligent systems through practical projects</desc>
+<defs>
+  <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#5b3b93"/>
+    <stop offset="100%" stop-color="#2f6fad"/>
+  </linearGradient>
+</defs>
+<rect width="1000" height="620" fill="url(#g)"/>
+<circle cx="880" cy="90" r="145" fill="white" opacity=".09"/>
+<circle cx="120" cy="560" r="180" fill="white" opacity=".06"/>
+<text x="70" y="185" font-family="Arial, Helvetica, sans-serif" font-size="92" font-weight="700" fill="white">AI</text>
+<text x="70" y="315" font-family="Arial, Helvetica, sans-serif" font-size="50" font-weight="700" fill="white">AI and Machine Learning</text>
+<text x="70" y="380" font-family="Arial, Helvetica, sans-serif" font-size="25" fill="white">Learning intelligent systems through practical projects</text>
+</svg>
