@@ -1,73 +1,22 @@
-FINAL SUBMISSION CHECKLIST - COURSEWORK 02
+Coursework 02 – Personal Portfolio Website
 
-DOCUMENT STRUCTURE
-[✓] Exactly 3 required HTML pages
-[✓] <!DOCTYPE html> on all pages
-[✓] lang="en" on all pages
-[✓] UTF-8 charset
-[✓] viewport meta tag
-[✓] unique title for each page
+Name: Thirunavukkarasu Palaniappa
 
-SEMANTIC HTML
-[✓] header
-[✓] nav
-[✓] main
-[✓] section
-[✓] article
-[✓] aside
-[✓] footer
-[✓] logical heading hierarchy
-[✓] one h1 on each page
+I have completed and tested my personal portfolio website. The website includes three HTML pages: Home, About, and Projects.
 
-TEXT AND CONTENT
-[✓] detailed paragraphs
-[✓] strong text
-[✓] emphasized text
-[✓] unordered list with 5+ items
-[✓] ordered list with 5+ items
-[✓] blockquote
+The website has been deployed using GitHub Pages.
 
-LINKS
-[✓] navigation on all pages
-[✓] internal links
-[✓] 3+ external links
-[✓] target="_blank"
-[✓] rel="noopener noreferrer"
-[✓] anchor/jump links
-[✓] mailto email link
+Hosted Website:
+https://thiruna31.github.io/web-cw2/
 
-IMAGES AND MULTIMEDIA
-[✓] 6 local images
-[✓] descriptive alt text
-[✓] embedded YouTube video
+Pages:
+Home:
+https://thiruna31.github.io/web-cw2/
 
-TABLE
-[✓] table
-[✓] caption
-[✓] thead
-[✓] tbody
-[✓] th and td
-[✓] more than 3 rows and 3 columns
+About:
+https://thiruna31.github.io/web-cw2/about.html
 
-PROJECT PAGE
-[✓] introduction paragraph
-[✓] 3 project articles
-[✓] heading for each project
-[✓] image for each project
-[✓] multiple description paragraphs
-[✓] contact section
+Projects:
+https://thiruna31.github.io/web-cw2/projects.html
 
-CODE QUALITY
-[✓] comments for major sections
-[✓] lowercase file names
-[✓] organized css and images folders
-[✓] consistent formatting
-
-BEFORE SUBMITTING
-[ ] Open all three pages.
-[ ] Click every navigation link.
-[ ] Check images.
-[ ] Check the embedded video.
-[ ] Run HTML validation if required by the instructor.
-[ ] Deploy to the hosting location required by the course.
-[ ] Submit the required .txt file and hosted URL.
+Thank you.
